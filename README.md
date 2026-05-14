@@ -27,7 +27,7 @@ digital-signature/
 
 **1. Clone Repository**
 ```bash
-git clone https://github.com/digital-signature.git
+git clone https://github.com/Rifanism/digital-signature.git
 ```
 
 **2. Buat Virtual Environment (Optional)**
